@@ -1,0 +1,48 @@
+{
+    "savol": "Sizga A va B sonlar beriladi. Siz ularning yig'indisini chiqaruvchi dastur tuzing!\nsizga {sonlar} - nomli list beriladi\n\ninput: 10 15\noutput: 25\n\n",
+    "tek": [
+        {
+            "input": [
+                7,
+                9
+            ],
+            "output": 16
+        },
+        {
+            "input": [
+                7,
+                1
+            ],
+            "output": 8
+        },
+        {
+            "input": [
+                5,
+                6
+            ],
+            "output": 11
+        },
+        {
+            "input": [
+                12,
+                13
+            ],
+            "output": 25
+        },
+        {
+            "input": [
+                19,
+                20
+            ],
+            "output": 39
+        },
+        {
+            "input": [
+                12,
+                13
+            ],
+            "output": 25
+        }
+    ],
+    "objects": "A,B"
+}

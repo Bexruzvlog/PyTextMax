@@ -1,0 +1,30 @@
+{
+    "savol": "Sizga {matn} nomli ixtiyoriy matn beriladi siz uni chop qiling\n\ninput: matn=\"OOO....\"\noutput: \"OOO....\"",
+    "tek": [
+        {
+            "input": [
+                "salom"
+            ],
+            "output": "salom"
+        },
+        {
+            "input": [
+                "bexruz"
+            ],
+            "output": "bexruz"
+        },
+        {
+            "input": [
+                "agvdueuuvwefvurfutrtfetrfytevrf"
+            ],
+            "output": "agvdueuuvwefvurfutrtfetrfytevrf"
+        },
+        {
+            "input": [
+                "lrfaberf4r034t29384r73t"
+            ],
+            "output": "lrfaberf4r034t29384r73t"
+        }
+    ],
+    "objects": "matn"
+}

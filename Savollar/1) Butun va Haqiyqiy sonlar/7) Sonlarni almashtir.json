@@ -1,0 +1,36 @@
+{
+    "savol": "Sizga {a} va {b} sonlari beriladi\nSiz ularni qiymatlarini almashtirib chop etishingiz kerak!\n\ninput: a=13, b=14\noutput: [14, 13]",
+    "tek": [
+        {
+            "input": [
+                12,
+                11
+            ],
+            "output": [
+                11,
+                12
+            ]
+        },
+        {
+            "input": [
+                13,
+                14
+            ],
+            "output": [
+                14,
+                13
+            ]
+        },
+        {
+            "input": [
+                1256,
+                2837
+            ],
+            "output": [
+                2837,
+                1256
+            ]
+        }
+    ],
+    "objects": "a,b"
+}

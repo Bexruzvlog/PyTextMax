@@ -1,0 +1,50 @@
+{
+    "1) Butun va Haqiyqiy sonlar": {
+        "soni": 12,
+        "ishlanganlar": [
+            "1) A + B"
+        ]
+    },
+    "10) claslar": {
+        "soni": 0,
+        "ishlanganlar": []
+    },
+    "2) Mantiqiy amallar": {
+        "soni": 0,
+        "ishlanganlar": []
+    },
+    "3) Sartlar": {
+        "soni": 3,
+        "ishlanganlar": [
+            "1) Aks sado"
+        ]
+    },
+    "4) Listlar": {
+        "soni": 0,
+        "ishlanganlar": []
+    },
+    "5) To'plamlar": {
+        "soni": 0,
+        "ishlanganlar": []
+    },
+    "6) Shart operatorlari": {
+        "soni": 0,
+        "ishlanganlar": []
+    },
+    "7) try va except": {
+        "soni": 0,
+        "ishlanganlar": []
+    },
+    "8) Takrorlash operatorlari": {
+        "soni": 0,
+        "ishlanganlar": []
+    },
+    "9) Funksiyalar": {
+        "soni": 0,
+        "ishlanganlar": []
+    },
+    "ui_add_quiz.ui": {
+        "soni": 0,
+        "ishlanganlar": []
+    }
+}

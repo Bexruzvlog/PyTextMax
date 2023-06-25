@@ -1,0 +1,30 @@
+{
+    "savol": "Sizga {x} butun son beriladi\ny=x^2+5x+4 shart qanoatlansa\ny ni chiqaruvchi dastur tuzing\n\ninput: x=2\noutput: 18\n\nizoh: y = 2^2 + 5*2 + 4 = 18",
+    "tek": [
+        {
+            "input": [
+                2
+            ],
+            "output": 18
+        },
+        {
+            "input": [
+                1
+            ],
+            "output": 10
+        },
+        {
+            "input": [
+                5
+            ],
+            "output": 54
+        },
+        {
+            "input": [
+                0
+            ],
+            "output": 4
+        }
+    ],
+    "objects": "x"
+}

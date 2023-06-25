@@ -1,0 +1,18 @@
+{
+    "savol": "Sarvar dosti bilan kop suhbatlashadi lekin habarlari doim maxfiy bolishini xohlaydi.\nUnda yangi bir g`oya paydo bo'ldi.\nU o'z do'sti bilan kelishib matnni teskarisiga jonatishini aytdi.\nLekin bunda ular qiynalishyaptilar.\nsiz ularga yordam bering\n\nsizga {matn} nomli satr berilgan siz uni teskatisiga aylantirib natijani chop qilishingiz kerak.\n\ninput: matn=\"Salom Do'stim\"\noutput: \"mits'oD molaS\"",
+    "tek": [
+        {
+            "input": [
+                "salom"
+            ],
+            "output": "molas"
+        },
+        {
+            "input": [
+                "kuchuk"
+            ],
+            "output": "kuhcuk"
+        }
+    ],
+    "objects": "matn"
+}

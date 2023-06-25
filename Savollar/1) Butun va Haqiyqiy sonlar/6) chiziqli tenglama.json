@@ -1,0 +1,20 @@
+{
+    "savol": "k*x-b=0\nsizga {k} va {b} butun sonlar beriladi\ntenglama ildizini butun qismini chiqaruvchi dastur tuzing\n\ninput: k=5, b=6\noutput: 1\n",
+    "tek": [
+        {
+            "input": [
+                5,
+                6
+            ],
+            "output": 1
+        },
+        {
+            "input": [
+                3,
+                8
+            ],
+            "output": 2
+        }
+    ],
+    "objects": "k,b"
+}

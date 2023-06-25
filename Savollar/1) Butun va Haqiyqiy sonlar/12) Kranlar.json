@@ -1,0 +1,26 @@
+{
+    "savol": "Petya, Katya va Seryoja kranlarni qog'ozdan yasashadi. Ular birgalikda kranlarni yasashdi. Agar Petya va Seryoja bir xil miqdordagi kranlarni yasaganligi ma'lum bo'lsa va Katya Petya va Seryojadan ikki baravar ko'p kran yasaganligi ma'lum bo'lsa, har bir bola qancha kran yasadi?\n\n<span style=\"color:black;\">Kirish ma'lumotlari:</span>\nINPUT kirish faylining yagona bitta natural son yozilgan S - qilingan kranlarning umumiy soni\n\n<span style=\"color:black;\">Chiqish ma'lumotlari:</span>\nChiqish faylining yagona qatoriga bo'shliqlar bilan ajratilgan uchta raqamni chiqarish kerak-har bir bola qilgan kranlar soni (Petya, Katya va Seryoja)\n\nMisollar\n<span style=\"color:black;\">#\tINPUT\t\tOUTPUT </span>\n1\tS=6\t\t1 4 1\n2\tS=24\t\t4 16 4\n3\tS=60\t\t10 40 10\n\n",
+    "tek": [
+        {
+            "input": [
+                6
+            ],
+            "output": [
+                1,
+                4,
+                1
+            ]
+        },
+        {
+            "input": [
+                24
+            ],
+            "output": [
+                4,
+                16,
+                4
+            ]
+        }
+    ],
+    "objects": "S"
+}

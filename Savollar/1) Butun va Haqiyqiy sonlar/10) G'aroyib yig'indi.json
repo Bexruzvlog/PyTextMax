@@ -1,0 +1,20 @@
+{
+    "savol": "Sizga ikkita natural son beriladi. Sizning vazifangiz shu sonlar orasidagi 3ga bo'linadigan ammo 7 bo'linmaydigan sonlar yigindisini topish.\n\n<span style=\"color:black;\">Kiruvchi ma'lumotlar:</span>\nkirish faylining yagona qatorida ikkita manfiy bo'lmagan butun sonlar berilgan, sonlar 109 dan oshmaydi.\n\n<span style=\"color:black;\">Chiquvchi ma'lumotlar:</span>\nchiqish faylining yagona satrida  yig'indisini chiqaring.\n\nMisollar\n#\tinput\t\toutput\n1\tx=26, y=443\t27696\n2\tx=41, y=743\t78402\n\n\n",
+    "tek": [
+        {
+            "input": [
+                26,
+                443
+            ],
+            "output": 27696
+        },
+        {
+            "input": [
+                41,
+                743
+            ],
+            "output": 78402
+        }
+    ],
+    "objects": "x,y"
+}

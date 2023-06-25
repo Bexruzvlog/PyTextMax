@@ -1,0 +1,13 @@
+{
+    "savol": "Sizga ikki satr beriladi siz ularni yonma yon joy tashlamasdan ulab chop qiluvchi dastur tuzing\n\ninput: a=\"sal\", b=\"om\"\noutput: \"salom\"",
+    "tek": [
+        {
+            "input": [
+                "sa",
+                "lom"
+            ],
+            "output": "salom"
+        }
+    ],
+    "objects": "a,b"
+}

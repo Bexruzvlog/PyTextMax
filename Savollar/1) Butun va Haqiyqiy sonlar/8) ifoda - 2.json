@@ -1,0 +1,30 @@
+{
+    "savol": "ifoda sizga {a} - beriladi siz",
+    "tek": [
+        {
+            "input": [
+                2
+            ],
+            "output": 4
+        },
+        {
+            "input": [
+                3
+            ],
+            "output": 6
+        },
+        {
+            "input": [
+                7
+            ],
+            "output": 14
+        },
+        {
+            "input": [
+                "salom"
+            ],
+            "output": "salomsalom"
+        }
+    ],
+    "objects": "a"
+}
